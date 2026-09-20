@@ -1,5 +1,7 @@
 # Project Memory
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 I have an idea that can save 90% of context.
 
 The core idea is: add a local Project Memory between the cloud LLM and the project files (equivalent to giving the AI expert an assistant).
