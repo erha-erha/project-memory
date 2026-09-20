@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh-CN.md)
+
 我有一个可以节省 90% 上下文的 idea。
 
 核心思路是：在云端大模型和项目文件之间，加一个本地 Project Memory（相当于给 AI 专家配一个助手）。
